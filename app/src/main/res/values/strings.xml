@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="title_activity_forecast">Forecast</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+    <string name="title_activity_winds">Winds</string>
+    <string name="title_activity_clouds">Clouds</string>
+    <string-array name="Select">
+        <item>Baghdogra,IN</item>
+        <item>Bangalore,IN</item>
+        <item>Bangkok,TH</item>
+        <item>Beijing,CN</item>
+        <item>Berlin,DE</item>
+        <item>Buenos Aires,AR</item>
+        <item>Cairo,EG</item>
+        <item>Chennai,IN</item>
+        <item>Dhaka,BD</item>
+        <item>Delhi,IN</item>
+        <item>Islamabad,PK</item>
+        <item>Jakarta,ID</item>
+        <item>Kabul,AF</item>
+        <item>Kathmandu,NP</item>
+        <item>Kolkata,IN</item>
+        <item>London,GB</item>
+        <item>Madrid,ES</item>
+        <item>Moscow,RU</item>
+        <item>Mughal Sarai,IN</item>
+        <item>Mumbai,IN</item>
+        <item>New York,US</item>
+        <item>Paris,FR</item>
+        <item>Pyongyang,KP</item>
+        <item>Shangai,CN</item>
+        <item>Singapore,SG</item>
+        <item>Tokyo,JP</item>
+        <item>Varanasi,IN</item>
+        <item>Vientiane,LA</item>
+
+    </string-array>
+</resources>

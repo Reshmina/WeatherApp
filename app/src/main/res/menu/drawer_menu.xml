@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:title="Temperature"
+            android:icon="@drawable/temperature"
+            android:id="@+id/temperature">
+        </item>
+        <item
+            android:title="Clouds"
+            android:icon="@drawable/clouds"
+            android:id="@+id/clouds">
+        </item>
+        <item
+            android:title="Winds"
+            android:icon="@drawable/winds"
+            android:id="@+id/winds">
+        </item>
+
+    </group>
+
+</menu>
